@@ -2,7 +2,7 @@
 require File.expand_path('../lib/adminlte-rails/version', __FILE__)
 Gem::Specification.new do |s|
   s.name = 'adminlte-rails'
-  s.version = AdminLTE::Rails::VERSION
+  s.version = '1.3.4'
   s.authors = ['Nguyen Ba Dung']
   s.email = ['nguyenbadung@gmail.com']
   s.homepage = 'https://github.com/VortexDeveloper/adminlte-rails'
