@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = AdminLTE::Rails::VERSION
   s.authors = ['Nguyen Ba Dung']
   s.email = ['nguyenbadung@gmail.com']
-  s.homepage = 'https://github.com/shine60vn/adminlte-rails'
+  s.homepage = 'https://github.com/VortexDeveloper/adminlte-rails'
   s.summary = %q{Integrates the AdminLTE theme with the Rails asset pipeline}
   s.description = %q{AdminLTE is a premium Bootstrap theme for Backend.}
   s.license = 'MIT'
